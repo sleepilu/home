@@ -2,6 +2,7 @@ heading {
   text-style: lowercase;
   color: rgba(255,255,255,0.8);
   text-spacing: 1.2em;
+  font-size: 2em
 }
 body {
   background-color: pink;
