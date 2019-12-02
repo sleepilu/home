@@ -2,6 +2,10 @@ body{
   background-color: pink;
 }
 
+heading{
+  font-family: 'Dancing Script', cursive;
+}
+
 nav{
   color: white;
 }
