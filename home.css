@@ -4,6 +4,8 @@ body{
 
 #heading{
   font-family: 'Dancing Script', cursive;
+  color: white;
+  font-size: 15ems
 }
 
 nav{
